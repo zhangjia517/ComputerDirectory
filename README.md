@@ -19,7 +19,7 @@ Computer directory structure
 		* PhotoshopProject
     * GameProject
 		* CommonResource
-			* Modle
+			* Model
 			* Picture
 			* Plugin
 		* UnityProject
@@ -29,7 +29,7 @@ Computer directory structure
 	* Game
 	* Picture
 		* Photo_Daughter
-		* Pic_Background
+		* Picture_Background
 	* Video
 * Temp
 * Tool
