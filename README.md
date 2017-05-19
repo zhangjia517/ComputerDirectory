@@ -1,2 +1,41 @@
 # ComputerDirectory
 Computer directory structure
+
+* Application
+    * Install
+    * Portable
+* Download
+* Project
+    * CodeProject
+		* CommonResource
+        * CProject
+		* EclipseProject
+		* Github
+    * CutProject
+		* CommonResource
+		* PremiereProject
+    * DesignProject
+		* CommonResource
+		* PhotoshopProject
+    * GameProject
+		* CommonResource
+			* Modle
+			* Picture
+			* Plugin
+		* UnityProject
+* Resource
+	* Audio
+	* Document
+	* Game
+	* Picture
+		* Photo_Daughter
+		* Pic_Background
+	* Video
+* Temp
+* Tool
+	* Backup
+	* Cache
+	* Configuration
+	* Installer
+	* Plugin
+	* Shortcut
