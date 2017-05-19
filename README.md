@@ -2,7 +2,7 @@
 Computer directory structure
 
 * Application
-    * Install
+    * Installation
     * Portable
 * Download
 * Project
@@ -19,16 +19,23 @@ Computer directory structure
 		* PhotoshopProject
     * GameProject
 		* CommonResource
+			* Audio
 			* Model
 			* Picture
 			* Plugin
 		* UnityProject
+		* UnrealProject
+	* OfficeProject
+		* CommonResource
+		* ExcelProject
+		* PowerPointProject
 * Resource
 	* Audio
 	* Document
 	* Game
 	* Picture
 		* Photo_Daughter
+			* 2016-12-26
 		* Picture_Background
 	* Video
 * Temp
@@ -37,5 +44,4 @@ Computer directory structure
 	* Cache
 	* Configuration
 	* Installer
-	* Plugin
 	* Shortcut
